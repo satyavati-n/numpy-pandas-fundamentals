@@ -35,33 +35,8 @@ This repository contains practical Python examples, CSV datasets, and exercises 
 - Merging datasets
 - Data cleaning
 
-## Installation
 
-Install Python, then install the required libraries:
 
-```bash
-pip install numpy pandas
-```
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/satyavati-n/numpy-pandas-fundamentals.git
-```
-
-Navigate into the project:
-
-```bash
-cd numpy-pandas-fundamentals
-```
-
-Run a Python file:
-
-```bash
-python numpy/01_numpy_introduction.py
-```
 
 ## Learning Objective
 
