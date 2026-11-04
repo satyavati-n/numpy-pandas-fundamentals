@@ -44,7 +44,6 @@ numpy-pandas-fundamentals/
 │   └── departments.csv
 │
 ├── excercises/
-│   ├── README.md
 │   ├── numpy_exercises.py
 │   └── pandas_exercises.py
 │
