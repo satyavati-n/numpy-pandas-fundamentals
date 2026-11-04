@@ -1,0 +1,12 @@
+
+EmployeeID,Name,Department,Age,Salary,Experience,City,JoinDate,PerformanceRating
+101,Aarav,HR,25,35000,2,Bengaluru,2023-01-15,4
+102,Diya,IT,28,55000,5,Mumbai,2021-06-10,5
+103,Rohan,Finance,30,60000,7,Delhi,2019-03-20,4
+104,Meera,HR,26,,3,Chennai,2022-08-12,3
+105,Kabir,IT,32,75000,9,Bengaluru,2018-11-05,5
+106,Anaya,Marketing,24,32000,1,Hyderabad,2024-02-18,4
+107,Arjun,Finance,,50000,4,Mumbai,2022-04-25,3
+108,Isha,IT,29,65000,6,Delhi,2020-09-30,5
+109,Vivaan,Marketing,27,40000,3,Chennai,2022-12-01,
+110,Sara,HR,31,48000,8,Bengaluru,2017-07-14,4
