@@ -11,44 +11,7 @@ This repository contains practical Python examples, CSV datasets, and exercises 
 - Pandas
 - CSV
 
-## Project Structure
 
-```text
-numpy-pandas-fundamentals/
-│
-├── numpy/
-│   ├── 01_numpy_introduction.py
-│   ├── 02_arrays.py
-│   ├── 03_array_indexing.py
-│   ├── 04_array_slicing.py
-│   ├── 05_array_operations.py
-│   ├── 06_mathematical_functions.py
-│   ├── 07_reshaping_arrays.py
-│   └── 08_broadcasting.py
-│
-├── pandas/
-│   ├── 01_pandas_introduction.py
-│   ├── 02_series.py
-│   ├── 03_dataframes.py
-│   ├── 04_reading_csv.py
-│   ├── 05_data_selection.py
-│   ├── 06_filtering_data.py
-│   ├── 07_handling_missing_values.py
-│   ├── 08_groupby_operations.py
-│   ├── 09_merging_datasets.py
-│   ├── 10_data_cleaning.py
-│   └── 11_pandas_practice.py
-│
-├── dataset/
-│   ├── employees.csv
-│   └── departments.csv
-│
-├── excercises/
-│   ├── numpy_exercises.py
-│   └── pandas_exercises.py
-│
-└── README.md
-```
 
 ## NumPy Topics Covered
 
